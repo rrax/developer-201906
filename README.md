@@ -8,7 +8,7 @@ What you should do:
 
 - Read these instructions carefully
 - Fork this repository
-- For each assignment in order:
+- For each feature (assignment-0, assigment-1, assigment-2) in order:
   - Read the assignment info in README.md in detail
   - Complete assignment (or try your best)
   - Commit your results and finish the corresponding feature
