@@ -1,6 +1,6 @@
 # Assignment 1
 
-An unnamed developer has created a [Piece Of Code](assignment-1/code.js) before leaving the team. The piece of code has landed on your desk while you were in progress refactoring code en route to a new feature.
+An unnamed developer has created a [Piece Of Code](code.js) before leaving the team. The piece of code has landed on your desk while you were in progress refactoring code en route to a new feature.
 
 ## Questions
 
